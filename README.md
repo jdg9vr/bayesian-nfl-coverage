@@ -8,4 +8,4 @@ We created a Bayesian Machine Learning model that classifies plays into 7 covera
 We used Python and a Bayesian Machine Learning package, pymc, for this project. The code was written in a jupyter notebook, with very detailed comments and notes. Our code can be found [here](Bayes_Project.ipynb). 
 
 
-*Disclaimer: We used the 2023 Big Data Bowl Data in our creation of this model. This data is not to be used for any other purposes beyond the outlines of this paper. For further details on the data, access the 2023 Big Data Bowl page on Kaggle.*
+*Disclaimer: We used the 2023 Big Data Bowl Data in our creation of this model. This data is not to be used for any other purposes beyond the outlines of this paper. For further details on the competiton rules, access the 2023 Big Data Bowl page on Kaggle.*
